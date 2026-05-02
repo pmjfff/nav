@@ -1,0 +1,75 @@
+My Server:
+  XIOU:
+    url: https://xiou.de
+    desc: 分享折腾的乐趣！
+    icon: https://xiou.de/favicon.svg
+  XG-icons:
+    url: https://icon.xiaoge.org
+    desc: 站长重置的高清图标库
+    icon: https://favicon.yandex.net/favicon/icon.xiaoge.org
+  VPS 剩余价值:
+    url: https://jsq.xiou.de
+    desc: 买卖 VPS 必备
+    icon: emoji:🐔
+  背景移除:
+    url: https://remove-bg.xiaoge.org
+    desc: 智能移除图片背景
+    icon: https://remove-bg.xiaoge.org/favicon.ico
+Blog:
+  DockerApps:
+    url: https://dockerapps.com
+    desc: Docker应用程序集合
+    icon: emoji:🐳
+  磕巴白菜:
+    url: https://hi.keba.host/
+    desc: 别管 不听 就是玩
+    icon: https://icon.xiaoge.org/images/website/keba.png
+  HuanHQ:
+    url: https://www.huanhq.com
+    desc: 技术大佬的blog
+    icon: https://favicon.yandex.net/favicon/www.huanhq.com
+  Cane's Blog:
+    url: https://hicane.com
+    desc: 兴趣是最好的老师。
+    icon: https://favicon.yandex.net/favicon/hicane.com
+  Anyeの小站:
+    url: https://www.anye.xyz
+    desc: Always Nurturing Your Enthusiasm
+    icon: https://favicon.yandex.net/favicon/www.anye.xyz
+MJJ:
+  NodeSeek:
+    url: https://www.nodeseek.com/
+    desc: VPS 相关交流社区
+    icon: https://favicon.yandex.net/favicon/www.nodeseek.com
+  Hostloc:
+    url: https://hostloc.com/
+    desc: 全球主机交流论坛
+    icon: https://favicon.yandex.net/favicon/hostloc.com
+  lowendtalk:
+    url: https://lowendtalk.com/
+    desc: LET 主机论坛（全球最大）
+    icon: https://favicon.yandex.net/favicon/lowendtalk.com
+  ITDOG:
+    url: https://www.itdog.cn/
+    desc: 在线 Ping 工具
+    icon: https://icon.xiaoge.org/images/website/itdog.png
+  Ping.pe:
+    url: https://ping.pe/
+    desc: 全球ping测工具
+    icon: emoji:⚡
+  IPLark:
+    url: https://iplark.com/
+    desc: 查看本机IP
+    icon: https://iplark.com/favicon.ico
+  Seek.li:
+    url: https://seek.li/
+    desc: NS 邮箱服务
+    icon: emoji:📧
+  哪吒配置生成:
+    url: https://nzcfg.pages.dev/
+    desc: 在线配置生成
+    icon: https://nezha.wiki/logo.png
+  github:
+    url: https://github.com
+    desc: 全球最大代码托管
+    icon: github.png

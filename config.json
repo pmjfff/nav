@@ -1,0 +1,16 @@
+{
+  "SITE_TITLE": "🧭导航",
+  "SITE_DESCRIPTION": "分享折腾的乐趣！",
+  "COPYRIGHT": "© 2026 <a href='https://github.com/pmjfff/nav' target='_blank'>XIOU</a> | <a href='editor.html'>Editor</a>",
+  "CARD_CONTENT": 0,
+  "SHOW_FAVICON": 1,
+  "DEFAULT_ENGINE": "bing",
+  "SEARCH_ENGINES": [
+    { "name": "Bing", "engine": "bing", "url": "https://www.bing.com/search?q=" },
+    { "name": "百度", "engine": "baidu", "url": "https://www.baidu.com/s?wd=" },
+    { "name": "Google", "engine": "google", "url": "https://www.google.com/search?q=" },
+    { "name": "DDG", "engine": "duckduckgo", "url": "https://duckduckgo.com/?q=" },
+    { "name": "GitHub", "engine": "github", "url": "https://github.com/search?q=" },
+    { "name": "Docker", "engine": "docker", "url": "https://hub.docker.com/search?q=" }
+  ]
+}
